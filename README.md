@@ -30,10 +30,10 @@ In this project, the tools used are as follows:
 ├── Dashboard/
 │   ├── Financial_Analysis_Dashboard.pbix          # Power BI data visualization dashboard
 │   └── Previews                                   # Screenshots of the dashboard
-│       ├── Dashboard Preview_Page 1
-│       ├── Dashboard Preview_Page 2
-│       ├── Dashboard Preview_Page 3
-│       └── Dashboard Preview_Page 4
+│       ├── Dashboard Preview_Page 1.png
+│       ├── Dashboard Preview_Page 2.png
+│       ├── Dashboard Preview_Page 3.png
+│       └── Dashboard Preview_Page 4.png
 └── README.md
 ```
 
